@@ -1,0 +1,17 @@
+.card_title {
+    color: green
+}
+
+.card_body {
+    color: white;
+    padding: 2%;
+    background: rgb(120, 120, 214, 0.2);
+    border-radius: 25px;
+    backdrop-filter: blur(40px);
+}
+
+.card_structure {
+    background: rgb(148, 204, 148);
+    border-radius: 25px;
+    margin: 2%;
+}
